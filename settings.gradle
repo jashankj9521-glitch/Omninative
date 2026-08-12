@@ -1,0 +1,2 @@
+rootProject.name = 'OmniNative'
+include ':app'

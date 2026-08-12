@@ -1,1 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="com.omninative.app">
+    <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="31" />
 
+    <application
+        android:label="OmniNative"
+        android:allowBackup="true">
+        <!-- Add activities / services here -->
+    </application>
+</manifest>
